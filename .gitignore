@@ -1,0 +1,17 @@
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Android Studio
+*.iml
+.gradle/
+.idea/
+build/
+captures/
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
